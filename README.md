@@ -54,6 +54,8 @@ Some takeaways:
 
 + Some people seemed to be in anything crypto related for speculative purposes, despite the organizers making clear that was not at all the intent. In the refund era, many people are saying they can claim their tokens and get 10x the amount of ETH for them on Uniswap rather than just getting their direct ETH refund. I don't know if this is true and if it is, I don't see why it should be. I'm following Brian Clark's solid suggestion to focus on where web3 solves a real problem and provide value, and avoid things that don't make sense or smell like Ponzi schemes.
 
++ Gas fees are no joke. Mine were roughly $56 to transfer my $200 contribution and $37 to get it back. They change every few seconds, so knowing when to expect lower gas fees and having the patience to wait for a favorable moment translates to dollars. I don't really understand gas fees well yet, but I'd like to. Consensus seems to be that they will drop in the future, and need to for this to be sustainable. 
+
 + The ConstitutionDAO got a lot of attention, and hopefully leads to moving web3 efforts forward in awareness and development in a constructive way. It is to be expected that many of the early efforts in web3 will look awkward in retrospect, as with the original internet, but this is how we progress.
 
 + I learned a lot of small and useful things just from going through this experience. For anyone interested in web3, I suggest finding a low-risk way to get involved.
